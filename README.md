@@ -15,7 +15,7 @@ None
 Note : The code requires Nodejs 10.00 version or higher
 
 1.Clone the repo using 
-  git clone https://github.com/HimanshuChourasia/ITCS_6112_Project.git
+  git clone https://github.com/rrangan1/MERN-stack-application.git
 2. Use the terminal/ command line and type in the following commands.
   cd ~
   cd your_folder_location
@@ -48,13 +48,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [Git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/HimanshuChourasia/Movie_Recommendations_Using_MRJob/tags). 
+We use [Git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository]
 
 ## Authors
 
-* **Himanshu Chourasia** - *Initial work* - [HimanshuChourasia](https://github.com/HimanshuChourasia)
-* **Ragini Ragnathan** - *Initial work* - 
-* **Sourav Roy Chaudhary *Initial work* - 
+* **Himanshu Chourasia** - *Initial work* 
+* **Ragini Ragnathan** - *Initial work* - Ragini Ranganathan(https://github.com/rrangan1)
+* **Sourav Roy Chaudhary *Initial work*  
 
 
 ## License
