@@ -35,6 +35,6 @@
         "react-router-dom": "^5.0.1",
         "react-tap-event-plugin": "^3.0.3",
         "uuid": "^3.3.2",
-        "yarn": "^1.16.0"
+        "yarn": "^1.22.0"
     }
 }
